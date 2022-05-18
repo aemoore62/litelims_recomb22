@@ -2,12 +2,20 @@
 
 ## Listen to the poster tour ##
 
-https://user-images.githubusercontent.com/28875637/168852362-227bcb21-8aa9-4b8e-a9eb-c779c74e1cbe.mp4
+
+
+https://user-images.githubusercontent.com/28875637/169078809-58d9ada9-0d04-4e90-a1ce-dd3b8913b6ba.mp4
+
+
 
 <br/><br/>
 
 ## Watch & listen to the poster tour ##
 
-https://user-images.githubusercontent.com/28875637/167935906-a890cc10-6bdf-4891-81fa-30867326b9b2.mov   
+ 
+
+https://user-images.githubusercontent.com/28875637/169078973-e3dbf610-602b-4299-8e0b-0cac831255b6.mov
+
+
 
 [Watch using Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vS78GAMI2dH6tFM98whbMqrQGGXW27N1zbaUzDCcqFmWkK7RdxDp5krepANIy0gAQ/pub?start=false&loop=false&delayms=3000). Be sure to click through all five slides as the slides won't auto-advance.
